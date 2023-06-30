@@ -4,6 +4,6 @@ Common LispによるSKK辞書サーバーとその拡張
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/asciian/cl-skkserv.git |
-| commit  | 07807bf                                       |
+| commit  | cc4a627                                       |
 | systems | cl-skkserv                                    |
 |---------+-----------------------------------------------|
